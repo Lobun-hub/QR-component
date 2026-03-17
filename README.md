@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The QR-code component challenge has enabled me understand how to use divs and also flexbox, link styles to the html file and also be able to follow instructions well.
 ### Screenshot
 
-![QR Code Component](./design/desktop-design.jpg)
+![QR Code Component](./qr-code-component-main/qr-code-component-main/design/desktop-design.jpg)
 
 ### Links
 
